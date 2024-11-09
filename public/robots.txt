@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xauusdprofitcalculator.com//sitemap.xml
